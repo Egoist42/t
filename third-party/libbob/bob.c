@@ -4,6 +4,8 @@
 #include <errno.h>
 #include <string.h>
 #include <stdlib.h>
+#include <unistd.h>
+
 
 
 static struct timeval _g_timeout;
